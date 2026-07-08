@@ -9,7 +9,7 @@
 
 </div>
 
-I'm still exploring what I want to build, and I've stopped treating that like a problem to solve. It's the current version of the story. Every `git commit` is me learning a little more about what I'm actually good at — and what I actually want.
+Every `git commit` is me learning a little more about what I'm actually good at — and what I actually want.
 
 Running log.
 
