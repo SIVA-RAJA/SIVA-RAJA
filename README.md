@@ -1,16 +1,4 @@
-<div align="center">
-INITIATING SYSTEM BOOT...
-[OK] Loading kernel: SIVA_RAJA_OS v1.0
-[OK] Mounting curiosity.drv
-[OK] Checking dependencies... Python ✓  Django ✓  PostgreSQL ✓
-[OK] Scanning for purpose.exe... NOT FOUND
-[WARN] Purpose still compiling. Progress: [##########------] 62%
-[OK] Loading module: self_taught.core
-[OK] No formal path detected. Manual override engaged.
-[OK] User identity confirmed: BUILDER
-[OK] Boot sequence complete. Welcome back.
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&background=000000&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=INITIATING+SYSTEM+BOOT...;%5BOK%5D+Loading+kernel%3A+SIVA_RAJA_OS+v1.0;%5BOK%5D+Mounting+curiosity.drv;%5BOK%5D+Checking+dependencies...+Python+%E2%9C%93+Django+%E2%9C%93+PostgreSQL+%E2%9C%93;%5BOK%5D+Scanning+for+purpose.exe...+NOT+FOUND;%5BWARN%5D+Purpose+still+compiling...+62%25;%5BOK%5D+Loading+module%3A+self_taught.core;%5BOK%5D+No+formal+path+detected.+Manual+override+engaged.;%5BOK%5D+User+identity+confirmed%3A+BUILDER;%5BOK%5D+Boot+sequence+complete.+Welcome+back.)](https://git.io/typing-svg)
 
 ---
 
