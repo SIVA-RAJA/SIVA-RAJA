@@ -16,14 +16,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 > Status: Learning • Building
 ```
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVA-RAJA&layout=compact&theme=radical&hide_border=true)
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SIVA-RAJA&repo=uxsp&theme=radical)](https://github.com/SIVA-RAJA/uxsp)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SIVA-RAJA&repo=Books&theme=radical)](https://github.com/SIVA-RAJA/Books)
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true)
@@ -33,6 +25,8 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
 ![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-south-season.svg#gh-light-mode-only)
 
 
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
