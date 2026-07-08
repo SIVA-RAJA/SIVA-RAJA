@@ -16,6 +16,15 @@ SIVA-RAJA@github:~$ ./run_life.sh
 > Status: Learning • Building
 ```
 
+<!-- .... . .-.. .-.. --- / .-- --- .-. .-.. -.. -->
+
+<span style="color: transparent; user-select: all;">If you're reading this, you found the secret invisible line. 🎉 Say hi at sivaraja5401@gmail.com</span>
+
+<!-- 
+If you're reading the source code of my README... 
+you're my kind of person. Let's connect! 
+-->
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
@@ -32,9 +41,7 @@ SIVA-RAJA@github:~$ ./run_life.sh
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
-![GitHub Calendar](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true&area=true)
-
-[![GitHub Contribution Grid Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake.svg)](https://github.com/SIVA-RAJA/SIVA-RAJA)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
