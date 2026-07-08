@@ -25,7 +25,7 @@ SIVA-RAJA@github:~$ cat next_goal.txt
 
 SIVA-RAJA@github:~$ ./run_life.sh
 > Status: Running... (no crashes yet)
-```bash
+```
 
 <br>
 
