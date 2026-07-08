@@ -45,8 +45,8 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true)
 
 ### 📊 Core Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVA-RAJA&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-9texsbzcs-siva-raja-s.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-9texsbzcs-siva-raja-s.vercel.app/api/top-langs/?username=SIVA-RAJA&layout=compact&theme=radical&hide_border=true)
 
 ### 📈 Activity Log
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
