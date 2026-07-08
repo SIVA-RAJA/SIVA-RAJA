@@ -13,7 +13,7 @@ I'm still exploring what I want to build, and I've stopped treating that like a 
 
 Running log.
 
-```bash
+```
 SIVA-RAJA@github:~$ whoami
 > a self-taught builder, mid-compile
 
