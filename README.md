@@ -32,11 +32,7 @@ SIVA-RAJA@github:~$ ./run_life.sh
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
-![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.gif)
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SIVA-RAJA&theme=radical&no-frame=true&row=1&column=7)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
