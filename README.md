@@ -25,8 +25,14 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
 ![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg)
-![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
-![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-south-season.svg#gh-light-mode-only)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-green-animate.svg)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-view.svg)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-green.svg)
+![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-gitblock.svg)
+
+
+
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
