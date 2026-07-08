@@ -1,10 +1,28 @@
 ## About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=TimesNewRoman&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=I'M+SIVA+RAJA;)](https://git.io/typing-svg)
+
+```bash
+SIVA-RAJA@github:~$ whoami
+> SIVA RAJA
+
+SIVA-RAJA@github:~$ cat skills.txt
+> Python, Django, Postgresql, etc....
+
+SIVA-RAJA@github:~$ cat mission.txt
+> Building things that solve real problems.
+
+SIVA-RAJA@github:~$ ./run_life.sh
+> Status: Learning • Building
+```
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVA-RAJA&layout=compact&theme=radical&hide_border=true)
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SIVA-RAJA&repo=repo1&theme=radical)](https://github.com/SIVA-RAJA/uxsp)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SIVA-RAJA&repo=repo2&theme=radical)](https://github.com/SIVA-RAJA/Books)
 
 ## 🔥 Contribution Streak
 
@@ -13,6 +31,14 @@
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
+
+![GitHub Calendar](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true&area=true)
+
+[![GitHub Contribution Grid Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake.svg)](https://github.com/SIVA-RAJA/SIVA-RAJA)
+
+![](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 
 ## 🏆 Trophies
 
@@ -38,3 +64,4 @@
 > 💡 Quote of the Day  
 > ![Quote](https://readme-quotes.vercel.app/api?type=horizontal)
 
+![Game of Life](https://github-readme-stats.vercel.app/api?username=SIVA-RAJA&show_icons=true&hide=stars,commits&theme=radical)
