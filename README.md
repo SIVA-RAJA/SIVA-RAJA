@@ -44,9 +44,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ### 🔥 Uptime & Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true)
 
-### 📊 Core Stats
-![GitHub Stats](https://github-readme-stats-tau-one-73.vercel.app/api?username=SIVA-RAJA&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats-tau-one-73.vercel.app/api/top-langs/?username=SIVA-RAJA&layout=compact&theme=radical&hide_border=true)
 
 ### 📈 Activity Log
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
@@ -58,18 +55,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ### 🐍 The Grid, Consumed
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<br>
-
-<div align="center">
-
-## 🏆 ARTIFACTS COLLECTED
-
-</div>
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SIVA-RAJA&theme=radical&no-frame=true&row=1&column=7)
 
 <br>
 
