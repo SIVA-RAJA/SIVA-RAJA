@@ -1,19 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&background=000000&center=false&vCenter=true&multiline=true&repeat=false&width=1200&height=250&lines=INITIATING+SYSTEM+BOOT...;%5BOK%5D+Loading+kernel%3A+SIVA_RAJA_S+v1.0;%5BOK%5D+Mounting+curiosity.drv;%5BOK%5D+Checking+dependencies...+Python+%E2%9C%93+Django+%E2%9C%93+PostgreSQL+%E2%9C%93+AI/ML+%E2%9C%93;%5BOK%5D+Scanning+for+purpose.exe...+NOT+FOUND;%5BWARN%5D+Purpose+still+compiling...+62%25;%5BOK%5D+Loading+module%3A+self_taught.core;%5BOK%5D+No+formal+path+detected.+Manual+override+engaged.;%5BOK%5D+User+identity+confirmed%3A+BUILDER;%5BOK%5D+Boot+sequence+complete.+Welcome+back.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&background=000000&center=false&vCenter=true&multiline=true&repeat=false&width=1200&height=250&lines=INITIATING+SYSTEM+BOOT...;%5BOK%5D+Loading+kernel%3A+SIVA_RAJA_S+v1.0;%5BOK%5D+Mounting+curiosity.drv;%5BOK%5D+Checking+dependencies...+Python+%E2%9C%93+Django+%E2%9C%93+PostgreSQL+%E2%9C%93+AI/ML+%E2%9C%93;%5BOK%5D+Scanning+for+purpose.exe...+NOT+FOUND;%5BWARN%5D+Purpose+still+compiling...+62%25;%5BOK%5D+Loading+module%3A+self_taught.core;%5BOK%5D+No+formal+path+detected.+Manual+override.;%5BOK%5D+User+identity+confirmed%3A+BUILDER;%5BOK%5D+Boot+sequence+complete.+Welcome+back.)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
 
 # SIVA RAJA
-### *a system still being written*
+### *A system still being written*
 
 </div>
 
-I didn't start with a roadmap. No bootcamp, no course that handed me a syllabus — just curiosity, a terminal, and the stubbornness to keep hitting run after every error.
-
 I'm still exploring what I want to build, and I've stopped treating that like a problem to solve. It's the current version of the story. Every `git commit` is me learning a little more about what I'm actually good at — and what I actually want.
 
-This profile isn't a resume. It's a running log.
+Running log.
 
 ```bash
 SIVA-RAJA@github:~$ whoami
@@ -31,24 +29,16 @@ SIVA-RAJA@github:~$ ./run_life.sh
 
 <br>
 
-<div align="center">
-
-## 📡 LIVE TELEMETRY
-
-*real-time data streamed from the system below*
-
-</div>
-
 ---
 
 ### 🔥 Uptime & Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=dark&hide_border=true)
 
 
 ### 📈 Activity Log
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
-### 🌐 The Grid (in three dimensions)
+### 🌐 The Grid
 ![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 ![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-south-season.svg#gh-light-mode-only)
 
@@ -60,7 +50,7 @@ SIVA-RAJA@github:~$ ./run_life.sh
 
 <div align="center">
 
-## 💭 A THOUGHT, EACH TIME YOU VISIT
+## 💭 A THOUGHT
 
 </div>
 
