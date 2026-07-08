@@ -33,7 +33,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 
 ### 🔥 Uptime & Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true)
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ### 📈 Activity Log
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
