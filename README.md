@@ -15,13 +15,13 @@ Running log.
 
 ```
 SIVA-RAJA@github:~$ whoami
-> a self-taught builder, mid-compile
+> a self-taught builder
 
 SIVA-RAJA@github:~$ cat status.log
 > Learning. Breaking things. Fixing them. Repeat.
 
 SIVA-RAJA@github:~$ cat next_goal.txt
-> undefined — and that's fine for now
+> undefined
 
 SIVA-RAJA@github:~$ ./run_life.sh
 > Status: Running... (no crashes yet)
@@ -30,12 +30,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 <br>
 
 ---
-
-### 🔥 Uptime & Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=SIVA-RAJA&theme=radical&hide_border=true&wide=1200)
-
-### 📈 Activity Log
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVA-RAJA&theme=react-dark&hide_border=true)
 
 ### 🌐 The Grid
 ![3D contribution graph](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
@@ -46,23 +40,6 @@ SIVA-RAJA@github:~$ ./run_life.sh
 ![Snake animation](https://raw.githubusercontent.com/SIVA-RAJA/SIVA-RAJA/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br>
-
-<div align="center">
-
-## 💭 A THOUGHT
-
-</div>
-
----
-
-> ![Quote](https://readme-quotes.vercel.app/api?type=horizontal)
-
-<br>
-
-<div align="center">
-
-### 👀 System visits logged
-![Profile Views](https://komarev.com/ghpvc/?username=SIVA-RAJA&color=blueviolet&style=flat)
 
 ---
 
